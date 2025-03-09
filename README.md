@@ -15,15 +15,15 @@ Get familiar with our coding puzzles.
 ### ⚡ Level 1: Fundamental Algorithms & Data Structures  
 Use fundamental data structures and algorithms to solve basic puzzles.
 
-| Problem                           | Status                          |
-| --------------------------------- | ------------------------------- |
-| [Cafeteria](level_1/cafeteria.md) | ✅ [Solved](warmup/cafeteria.py) |
-| Director of Photography 1         | ❌ TBA                           |
-| Kaitenzushi                       | ❌ TBA                           |
-| Rotary Lock 1                     | ❌ TBA                           |
-| Scoreboard Inference 1            | ❌ TBA                           |
-| Stack Stabilization 1             | ❌ TBA                           |
-| Uniform Integers                  | ❌ TBA                           |
+| Problem                                         | Status                                  |
+| ----------------------------------------------- | --------------------------------------- |
+| [Cafeteria](level_1/cafeteria.md)               | ✅ [Solved](level_1/cafeteria.py)        |
+| Director of Photography 1                       | ❌ TBA                                   |
+| Kaitenzushi                                     | ❌ TBA                                   |
+| Rotary Lock 1                                   | ❌ TBA                                   |
+| Scoreboard Inference 1                          | ❌ TBA                                   |
+| Stack Stabilization 1                           | ❌ TBA                                   |
+| [Uniform Integers](level_1/uniform_integers.md) | ✅ [Solved](level_1/uniform_integers.py) |
 
 ---
 
