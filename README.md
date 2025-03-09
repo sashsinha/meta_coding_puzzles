@@ -4,11 +4,11 @@ Problems from [metacareers.com/profile/coding_puzzles](https://www.metacareers.c
 ### 🔥 Warmup  
 Get familiar with our coding puzzles.
 
-| Problem                          | Status                          |
-| -------------------------------- | ------------------------------- |
-| [ABCs](warmup/abcs.md)           | ✅ [Solved](warmup/abcs.py)      |
-| [All Wrong](warmup/all_wrong.md) | ✅ [Solved](warmup/all_wrong.py) |
-| Battleship                       | ❌ TBA                           |
+| Problem                            | Status                           |
+| ---------------------------------- | -------------------------------- |
+| [ABCs](warmup/abcs.md)             | ✅ [Solved](warmup/abcs.py)       |
+| [All Wrong](warmup/all_wrong.md)   | ✅ [Solved](warmup/all_wrong.py)  |
+| [Battleship](warmup/battleship.md) | ✅ [Solved](warmup/battleship.py) |
 
 ---
 
